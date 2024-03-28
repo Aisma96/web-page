@@ -1,0 +1,9 @@
+.fas {
+    display: inline-block;
+    font-style: normal;
+    text-rendering: auto;
+}
+
+::before {
+    border: 0 solid #e2e8f0;
+}
